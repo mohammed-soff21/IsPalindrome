@@ -21,6 +21,7 @@ This project is designed as a basic introduction to input/output operations as w
 ## Features
 - Accepts a string
 - Checks if the string is palindrome or not
+- Using string operations
 - Code is divided into reusable methods for better readability and structure
 - Written in clean and modern C# syntax
 
@@ -29,7 +30,7 @@ This project is designed as a basic introduction to input/output operations as w
 Enter the word:
 > Dad
 The word is palindrome
-
+```
 ## Project Structure
 ```text
 IsPalindrome/
