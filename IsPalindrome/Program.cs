@@ -76,7 +76,7 @@ namespace IsPalindrome
         {
             if (input == 'y' || input == 'n')
                 return true;
-            Print("Please, enter (y) to check another number else enter (n) only");
+            Print("Please, enter (y) to continue in the application again else enter (n)");
             return false;
         }
 
