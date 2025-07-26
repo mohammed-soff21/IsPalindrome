@@ -22,7 +22,7 @@ namespace IsPalindrome
 
 
                 // To read user choice to continue in the app again and validate the user input
-                if (!IsChar(" y to check another number else enter n", out cUserChoice))
+                if (!IsChar("y to continue in the application else enter n", out cUserChoice))
                     return;
                 // Convert the character to lower 
                 cUserChoice = Char.ToLower(cUserChoice);
